@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutme">I am an enthusiastic IT student who wants to learn and explore more and more about technology and developement.My skills include analytical thinking, creative problem solving, Core Java and Android app development.Android development has always interested me.I am a 3-star coder at Codechef.I have secured 91% in my 12th standard and 81% in my class 10th.</string>
+</resources>
